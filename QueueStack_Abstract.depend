@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1518640008 source:c:\users\gabri\dropbox\hr\2018\vor\gagnaskipan\v5_queuestack_abstract\main.cpp
+	<iostream>
+	"stack.h"
+	"queue.h"
+	"linkedlist.h"
+	"bufferlist.h"
+
+1518632472 c:\users\gabri\dropbox\hr\2018\vor\gagnaskipan\v5_queuestack_abstract\stack.h
+	<iostream>
+
+1518632472 c:\users\gabri\dropbox\hr\2018\vor\gagnaskipan\v5_queuestack_abstract\queue.h
+	<iostream>
+
+1518639982 c:\users\gabri\dropbox\hr\2018\vor\gagnaskipan\v5_queuestack_abstract\linkedlist.h
+	<iostream>
+	"queue.h"
+	"stack.h"
+
+1518640125 c:\users\gabri\dropbox\hr\2018\vor\gagnaskipan\v5_queuestack_abstract\bufferlist.h
+	"queue.h"
+	"stack.h"
+
