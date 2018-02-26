@@ -33,6 +33,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Node.h" />
 		<Unit filename="bufferlist.h" />
 		<Unit filename="linkedlist.h" />
 		<Unit filename="main.cpp" />
